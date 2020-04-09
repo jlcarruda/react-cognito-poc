@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"cognitodistributorpofc00065b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
